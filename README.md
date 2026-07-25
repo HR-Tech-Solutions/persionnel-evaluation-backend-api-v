@@ -1,3 +1,7 @@
+> [!NOTE]
+> **Project Status: Finished Production**
+> Repository นี้สร้างขึ้นเพื่อรวบรวมและจัดเก็บซอร์สโค้ดของโปรเจกต์ที่พัฒนาเสร็จสมบูรณ์แล้ว สำหรับใช้เป็นคลังผลงานส่วนตัว (Portfolio Showcase)
+
 # Personnel Evaluation System - Backend API
 
 ## Overview
